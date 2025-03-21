@@ -1,0 +1,9 @@
+pillow==10.1.0
+numpy==1.24.3
+ollama==0.4.7
+requests==2.31.0
+matplotlib==3.7.5
+tqdm==4.66.1
+typing-extensions==4.5.0
+torch==2.2.0
+torchvision==0.17.0 
